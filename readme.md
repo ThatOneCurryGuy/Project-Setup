@@ -6,3 +6,5 @@ Javascript
     * helps us code
 P5.play.js
     * Used For Sprites
+    
+    code output https://thatonecurryguy.github.io/Project-Setup/
